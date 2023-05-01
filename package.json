@@ -1,0 +1,19 @@
+{
+  "name": "review-metrics",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx tsx index.mts"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.16.3",
+    "prettier": "2.8.8",
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "csv-stringify": "^6.3.3",
+    "date-fns": "^2.30.0",
+    "zx": "^7.2.1"
+  }
+}
